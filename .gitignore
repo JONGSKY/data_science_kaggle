@@ -1,2 +1,6 @@
 toxicity_classification/data/
 toxicity_classification/preprocessing_data/
+imdb/dataset/
+imdb/preprocessing_dataset/
+predict_future_sales/data/
+tmdb_box_office_prediction/data/
